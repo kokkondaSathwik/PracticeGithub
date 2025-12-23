@@ -37,3 +37,7 @@
 - 1 branch = 1 pull request = 1 feature we are working with
 
 - if we are working with 1 feature and we we want to work on the other feature we have to create another branch or else it will commit on the same branch and we cant create more than 1 pull request on the 1 branch
+
+- If we are working on a project folder and we want to know to which github repo is this folder is linked then we use 
+(git remote -v)
+
