@@ -10,3 +10,30 @@
 
 -branching
 
+- whenever we are working on the new feature or bug work on the new branch
+
+- never commit on the main branch
+
+- new repos use naming convesntion as main old repos use master as naming convention
+
+- git branch feature
+
+- git checkout feature
+
+- head (it is a pointer all the new commits are making will be added on feature)
+
+- git commit
+
+- git merge feature
+
+- git cloning is only for learning we cant push it into github
+
+- we can create a copy of the project in our own account by forking it
+
+- git clone url
+
+- make changes if we want that changes to be adjusted by your friend repo we have make pull request
+
+- 1 branch = 1 pull request = 1 feature we are working with
+
+- if we are working with 1 feature and we we want to work on the other feature we have to create another branch or else it will commit on the same branch and we cant create more than 1 pull request on the 1 branch
